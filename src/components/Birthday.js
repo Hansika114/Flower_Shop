@@ -29,6 +29,19 @@ const products = [
   { name: "Imogen Pink Rose Petal Bouquet", discountedPrice: "1250.00", reviews: "7 reviews", rating: 4, image: require('../assets/birthday10.png') },
   { name: "Ivonne Lilac Rose Petal Bouquet", discountedPrice: "1540.00", reviews: "16 reviews", rating: 5, image: require('../assets/birthday11.png') },
   { name: "Imelda Cherry Pink Rose Petal Bouquet", discountedPrice: "1500.00", reviews: "3 reviews", rating: 4, image: require('../assets/birthday12.png') },
+
+  { name: "Ashley Red Rose Bouquet", discountedPrice: "1500.00", reviews: "5 reviews", rating: 5, image: require('../assets/birthday1.png') },
+  { name: "Marilyn Pink Carnation Bouquet", discountedPrice: "1650.00", reviews: "21 reviews", rating: 4, image: require('../assets/birthday2.png') },
+  { name: "Casabella Pink Hydrangea Bouquet", discountedPrice: "1600.00", reviews: "5 reviews", rating: 5, image: require('../assets/birthday3.png') },
+  { name: "Esmerelda Pink Rose Flower Box", discountedPrice: "1550.00", reviews: "13 reviews", rating: 4, image: require('../assets/birthday4.png') },
+  { name: "Lana Balloon Flower Box", discountedPrice: "1500.00", reviews: "6 reviews", rating: 5, image: require('../assets/birthday5.png') },
+  { name: "Joanne", discountedPrice: "1250.00", reviews: "7 reviews", rating: 4, image: require('../assets/birthday6.png') },
+  { name: "Tessa Pink Lily Flower Box", discountedPrice: "1540.00", reviews: "16 reviews", rating: 5, image: require('../assets/birthday7.png') },
+  { name: "Rachel Ruby Rose Bouquet", discountedPrice: "1500.00", reviews: "3 reviews", rating: 4, image: require('../assets/birthday8.png') },
+  { name: "Iriana Yellow Sunflower & Rose Petal Bouquet", discountedPrice: "1500.00", reviews: "6 reviews", rating: 5, image: require('../assets/birthday9.png') },
+  { name: "Imogen Pink Rose Petal Bouquet", discountedPrice: "1250.00", reviews: "7 reviews", rating: 4, image: require('../assets/birthday10.png') },
+  { name: "Ivonne Lilac Rose Petal Bouquet", discountedPrice: "1540.00", reviews: "16 reviews", rating: 5, image: require('../assets/birthday11.png') },
+  { name: "Imelda Cherry Pink Rose Petal Bouquet", discountedPrice: "1500.00", reviews: "3 reviews", rating: 4, image: require('../assets/birthday12.png') },
 ];
 
 
